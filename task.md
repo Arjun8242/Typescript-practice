@@ -1,0 +1,41 @@
+- `[x]` 1. Order Creation
+    - `[x]` Order ID
+    - `[x]` Customer Name
+    - `[x]` Tea Type
+    - `[x]` Cup Size
+    - `[x]` Sugar Quantity
+    - `[x]` Payment Method
+    - `[x]` Optional Special Instructions
+- `[x]` 2. Order Service
+    - `[x]` Create Order
+    - `[x]` Get Order By ID
+    - `[x]` Get All Orders
+    - `[x]` Update Order
+    - `[x]` Delete Order
+- `[x]` 3. Search Features
+    - `[x]` Get all orders of a specific tea type
+    - `[x]` Get all large-size orders
+    - `[x]` Get all orders with sugar greater than a given amount
+    - `[x]` Get all orders placed by a specific customer
+- `[x]` 4. Order Processing
+    - `[x]` Masala Chai
+    - `[x]` Ginger Chai
+    - `[x]` Green Tea
+- `[x]` 5. Validation
+    - `[x]` Reject invalid data
+- `[ ]` 6. Payment Handling
+    - `[ ]` Cash
+    - `[ ]` UPI
+    - `[ ]` Card
+- `[x]` 7. Reports
+    - `[x]` Total Orders
+    - `[x]` Orders By Tea Type
+    - `[x]` Total Sugar Used
+- `[x]` 8. Async Operations
+- `[ ]` Bonus: Generic API Response
+- `[ ]` Bonus: Order Status Tracking
+- `[ ]` Bonus: Inventory Tracking
+- `[ ]` Deliverables
+    - `[/]` TypeScript source code
+    - `[ ]` Instructions to run the project
+    - `[ ]` Sample output
